@@ -1,4 +1,4 @@
-# [Methoden der Bioinformatik 5. FS,<br>Vertiefungspraktikum Python Standard]()
+# [Bioinformatik 5. FS,<br>Vertiefungspraktikum Python Standard]()
 
 **Downloads:**
 📝&nbsp;[assignments.pdf](https://github.com/BMCV/mobi-fs5-python-assignments/releases/download/current/assignments.pdf),
