@@ -1,7 +1,7 @@
 # [Bioinformatik 5. FS,<br>Vertiefungspraktikum Python Standard]()
 
 **Downloads:**
-📝&nbsp;[assignments.pdf](https://github.com/BMCV/mobi-fs5-python-assignments/releases/download/current/assignments.pdf),
+📝&nbsp;[assignments.pdf](https://github.com/BMCV/mobi-fs5-python-assignments/releases/download/current/assignments.pdf)
 
 **Steps to start coding:**
 1. Click on "Code", then the "Codespaces" tab.
