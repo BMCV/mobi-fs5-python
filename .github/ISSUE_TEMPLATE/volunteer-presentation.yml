@@ -30,7 +30,7 @@ body:
     id: labsession
     attributes:
       label: Lab session
-      description: The lab session for which you to present your solution.
+      description: The lab session for which you volunteer to present your solution.
       options:
         - Introduction (Cheat Sheet)
         - Lab Session 1
