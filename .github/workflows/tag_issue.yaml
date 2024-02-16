@@ -20,7 +20,7 @@ jobs:
       -
         name: Create label
         continue-on-error: true
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
             github.rest.issues.createLabel({
@@ -32,7 +32,7 @@ jobs:
       -
         name: Assign label
         continue-on-error: true
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
             github.rest.issues.addLabels({
